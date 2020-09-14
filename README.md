@@ -10,7 +10,7 @@ Just start Now，Don't stop here
 笔记大纲施工情况
 
 - 软件工程 :heavy_check_mark:
-- 操作系统 :heavy_check_mark:（本地库复活）
+- 操作系统 :heavy_check_mark:（本地库复活，青春又回来了）
 - 基于操作系统编程 :x:
 - 嵌入式操作系统 :x:
 - 计算机组成原理 :x:(新坑)

@@ -11,6 +11,7 @@ Just start Now，Don't stop here
 
 - 软件工程 :heavy_check_mark:
 - 操作系统 :heavy_check_mark:（本地库复活，青春又回来了）
+- 数据结构 :x:
 - 基于操作系统编程 :x:
 - 嵌入式操作系统 :x:
 - 计算机组成原理 :x:(新坑)

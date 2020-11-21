@@ -15,5 +15,5 @@ Just start Now，Don't stop here
 - 计算机组成原理 :heavy_check_mark:
 - 基于操作系统编程 :x:
 - 嵌入式操作系统 :x:
-- 计算机网络 :x:
+- 计算机网络 :heavy_check_mark:
 - 人机交互 :x: （这个在上着课，同步更新问题 不大）
